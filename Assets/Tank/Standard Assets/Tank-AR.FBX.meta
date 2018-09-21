@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 95e7dec3c0eb6d743a3a98122ae01a2e
+timeCreated: 1537260474
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: brep_1
+    100002: brep_10
+    100004: brep_11
+    100006: brep_12
+    100008: brep_13
+    100010: brep_14
+    100012: brep_15
+    100014: brep_16
+    100016: brep_17
+    100018: brep_18
+    100020: brep_19
+    100022: brep_2
+    100024: brep_20
+    100026: brep_21
+    100028: brep_22
+    100030: brep_23
+    100032: brep_24
+    100034: brep_25
+    100036: brep_26
+    100038: brep_27
+    100040: brep_28
+    100042: brep_29
+    100044: brep_3
+    100046: brep_31
+    100048: brep_32
+    100050: brep_33
+    100052: brep_34
+    100054: brep_35
+    100056: brep_36
+    100058: brep_37
+    100060: brep_4
+    100062: brep_5
+    100064: brep_6
+    100066: brep_7
+    100068: brep_8
+    100070: brep_9
+    100072: curve_set_0
+    100074: Document
+    100076: shell_1
+    100078: shell_2
+    100080: shell_3
+    100082: shell_4
+    100084: shell_5
+    100086: shell_6
+    100088: shell_7
+    100090: //RootNode
+    100092: "\u5766\u514BAR step\u6587\u4EF6-126854"
+    100094: "\u5766\u514BAR step\u6587\u4EF6-128687"
+    100096: "\u5766\u514BAR step\u6587\u4EF6-128688"
+    400000: brep_1
+    400002: brep_10
+    400004: brep_11
+    400006: brep_12
+    400008: brep_13
+    400010: brep_14
+    400012: brep_15
+    400014: brep_16
+    400016: brep_17
+    400018: brep_18
+    400020: brep_19
+    400022: brep_2
+    400024: brep_20
+    400026: brep_21
+    400028: brep_22
+    400030: brep_23
+    400032: brep_24
+    400034: brep_25
+    400036: brep_26
+    400038: brep_27
+    400040: brep_28
+    400042: brep_29
+    400044: brep_3
+    400046: brep_31
+    400048: brep_32
+    400050: brep_33
+    400052: brep_34
+    400054: brep_35
+    400056: brep_36
+    400058: brep_37
+    400060: brep_4
+    400062: brep_5
+    400064: brep_6
+    400066: brep_7
+    400068: brep_8
+    400070: brep_9
+    400072: curve_set_0
+    400074: Document
+    400076: shell_1
+    400078: shell_2
+    400080: shell_3
+    400082: shell_4
+    400084: shell_5
+    400086: shell_6
+    400088: shell_7
+    400090: //RootNode
+    400092: "\u5766\u514BAR step\u6587\u4EF6-126854"
+    400094: "\u5766\u514BAR step\u6587\u4EF6-128687"
+    400096: "\u5766\u514BAR step\u6587\u4EF6-128688"
+    2100000: 02 - Default
+    2100002: 03 - Default
+    2100004: 'Material #39'
+    2100006: 'Material #31'
+    2100008: 'Material #26'
+    2100010: No Name
+    2100012: 'Material #37'
+    2300000: brep_1
+    2300002: brep_10
+    2300004: brep_11
+    2300006: brep_12
+    2300008: brep_13
+    2300010: brep_14
+    2300012: brep_15
+    2300014: brep_16
+    2300016: brep_17
+    2300018: brep_18
+    2300020: brep_19
+    2300022: brep_2
+    2300024: brep_20
+    2300026: brep_21
+    2300028: brep_22
+    2300030: brep_23
+    2300032: brep_24
+    2300034: brep_25
+    2300036: brep_26
+    2300038: brep_27
+    2300040: brep_28
+    2300042: brep_29
+    2300044: brep_3
+    2300046: brep_31
+    2300048: brep_32
+    2300050: brep_33
+    2300052: brep_34
+    2300054: brep_35
+    2300056: brep_36
+    2300058: brep_37
+    2300060: brep_4
+    2300062: brep_5
+    2300064: brep_6
+    2300066: brep_7
+    2300068: brep_8
+    2300070: brep_9
+    2300072: shell_1
+    2300074: shell_2
+    2300076: shell_3
+    2300078: shell_4
+    2300080: shell_5
+    2300082: shell_6
+    2300084: shell_7
+    3300000: brep_1
+    3300002: brep_10
+    3300004: brep_11
+    3300006: brep_12
+    3300008: brep_13
+    3300010: brep_14
+    3300012: brep_15
+    3300014: brep_16
+    3300016: brep_17
+    3300018: brep_18
+    3300020: brep_19
+    3300022: brep_2
+    3300024: brep_20
+    3300026: brep_21
+    3300028: brep_22
+    3300030: brep_23
+    3300032: brep_24
+    3300034: brep_25
+    3300036: brep_26
+    3300038: brep_27
+    3300040: brep_28
+    3300042: brep_29
+    3300044: brep_3
+    3300046: brep_31
+    3300048: brep_32
+    3300050: brep_33
+    3300052: brep_34
+    3300054: brep_35
+    3300056: brep_36
+    3300058: brep_37
+    3300060: brep_4
+    3300062: brep_5
+    3300064: brep_6
+    3300066: brep_7
+    3300068: brep_8
+    3300070: brep_9
+    3300072: shell_1
+    3300074: shell_2
+    3300076: shell_3
+    3300078: shell_4
+    3300080: shell_5
+    3300082: shell_6
+    3300084: shell_7
+    4300000: brep_1
+    4300002: brep_2
+    4300004: brep_3
+    4300006: brep_4
+    4300008: brep_5
+    4300010: brep_6
+    4300012: brep_7
+    4300014: brep_8
+    4300016: brep_9
+    4300018: brep_10
+    4300020: brep_11
+    4300022: brep_12
+    4300024: brep_13
+    4300026: brep_14
+    4300028: brep_15
+    4300030: brep_16
+    4300032: brep_17
+    4300034: brep_18
+    4300036: brep_19
+    4300038: brep_20
+    4300040: brep_21
+    4300042: brep_22
+    4300044: brep_23
+    4300046: brep_24
+    4300048: brep_25
+    4300050: brep_26
+    4300052: brep_27
+    4300054: brep_28
+    4300056: brep_29
+    4300058: brep_31
+    4300060: brep_32
+    4300062: brep_33
+    4300064: brep_34
+    4300066: brep_35
+    4300068: brep_36
+    4300070: brep_37
+    4300072: shell_1
+    4300074: shell_2
+    4300076: shell_3
+    4300078: shell_4
+    4300080: shell_5
+    4300082: shell_6
+    4300084: shell_7
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
