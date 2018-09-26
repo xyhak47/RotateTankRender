@@ -125,6 +125,7 @@ GameObject:
   - component: {fileID: 157629624}
   - component: {fileID: 157629623}
   - component: {fileID: 157629627}
+  - component: {fileID: 157629628}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -204,6 +205,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0c1335aba4b5602419bd41cc164eede4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &157629628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 157629622}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c097e1daf2724248adcab218b1df692, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1620841243
@@ -296,7 +308,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4066729350964112, guid: 91e605eb18cca674196b56c7bb83292e, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4066729350964112, guid: 91e605eb18cca674196b56c7bb83292e, type: 2}
       propertyPath: m_LocalRotation.z
@@ -304,11 +316,30 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4066729350964112, guid: 91e605eb18cca674196b56c7bb83292e, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4066729350964112, guid: 91e605eb18cca674196b56c7bb83292e, type: 2}
       propertyPath: m_RootOrder
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 23688191259211400, guid: 91e605eb18cca674196b56c7bb83292e,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23026083240082944, guid: 91e605eb18cca674196b56c7bb83292e,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4066729350964112, guid: 91e605eb18cca674196b56c7bb83292e, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114181052290607390, guid: 91e605eb18cca674196b56c7bb83292e,
+        type: 2}
+      propertyPath: drawArrow
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 91e605eb18cca674196b56c7bb83292e, type: 2}
